@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/priteshjagani/travis-broken-example.svg?branch=master)](https://travis-ci.org/priteshjagani/travis-broken-example)
+[![Build Status](https://travis-ci.org/priteshjagani/travis_ci_c-.svg?branch=master)](https://travis-ci.org/priteshjagani/travis_ci_c-)
 
 # travis-broken-example
 
